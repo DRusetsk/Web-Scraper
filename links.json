@@ -1,0 +1,14 @@
+[
+    {
+        "name":"rab",
+        "url":"https://rab.equipment",
+        "title":"span.base",
+        "price":"span.price"
+    },
+    {
+        "name":"blackdiamond",
+        "url":"https://blackdiamondequipment.com/",
+        "title":"h1.product-title",
+        "price":"h2.product-price"
+    }
+]
